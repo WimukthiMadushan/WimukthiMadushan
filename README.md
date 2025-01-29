@@ -34,22 +34,13 @@ Keep building and innovating! 🚀📱💻
   
 </p>
 
-## Github stats 📊
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WimukthiMadushan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WimukthiMadushan&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WimukthiMadushan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/WimukthiMadushan/github-readme-stats"><img alt="Wimukthi's's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=WimukthiMadushan&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-<a href="https://github.com/WimukthiMadushan/github-readme-stats"><img alt="Yasiru's's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruDEX&layout=compact&langs_count=8" height="192px"/></a>  <br/>
-</details>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WimukthiMadushan&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
+[![neoochii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WimukthiMadushan&theme=high-contrast)](https://github.com/dilshadalikhan2004/github-readme-activity-graph)
 
 <details>
   <summary>Profile Views 👁️</summary>
@@ -133,3 +124,4 @@ Keep building and innovating! 🚀📱💻
 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+
